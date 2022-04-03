@@ -1,0 +1,9 @@
+﻿  ConsoleApplication.cpp
+C:\Users\Luxx6\Desktop\университет\Программирование(код)\Лабораторная_ООП_1\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(50,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Luxx6\Desktop\университет\Программирование(код)\Лабораторная_ООП_1\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(59,25): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Luxx6\Desktop\университет\Программирование(код)\Лабораторная_ООП_1\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(63,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Luxx6\Desktop\университет\Программирование(код)\Лабораторная_ООП_1\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(75,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Luxx6\Desktop\университет\Программирование(код)\Лабораторная_ООП_1\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(80,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Luxx6\Desktop\университет\Программирование(код)\Лабораторная_ООП_1\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(162,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Luxx6\Desktop\университет\Программирование(код)\Лабораторная_ООП_1\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(169,28): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication.vcxproj -> C:\Users\Luxx6\Desktop\университет\Программирование(код)\Лабораторная_ООП_1\ConsoleApplication\x64\Debug\ConsoleApplication.exe
